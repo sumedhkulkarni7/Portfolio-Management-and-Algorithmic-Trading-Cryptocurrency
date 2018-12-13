@@ -1,2 +1,2 @@
-# Portfolio-Management-ad-Algorithmic-Trading-Cryptocurrency
+# Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency
 Algorithmic trading of Cryptocurrencies.
