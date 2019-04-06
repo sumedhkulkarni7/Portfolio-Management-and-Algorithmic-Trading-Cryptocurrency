@@ -9,12 +9,6 @@
 ##### 5. Jay Choksi
 ##### 6. Vividh Talesara
 
-
-# Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency
-Algorithmic trading of Cryptocurrencies.
-The cryptocurrencies used are:
-           
-
 ## Data
 The datasets used for this task are of [Bitcoin](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/BITCOIN_Final.xlsx), [Litecoin](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/LITECOIN.xlsx) and [Ethereum](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/ETHEREUM.xlsx). Other dataset used is [NVIDIA](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/NVDA.xlsx).
 
