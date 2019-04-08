@@ -45,11 +45,11 @@ Using Python we develop strategies like:
 ![image](https://user-images.githubusercontent.com/35174083/55693576-c1e05780-597d-11e9-8a5a-4f733f442835.png)
 
 
-Trading Signals:
+#### Trading Signals:
 
 ![image](https://user-images.githubusercontent.com/35174083/55693597-de7c8f80-597d-11e9-9f75-f2ab14bc51d6.png)
 
-Cumulative and Total Returns:
+#### Cumulative and Total Returns:
 
 ![image](https://user-images.githubusercontent.com/35174083/55693652-226f9480-597e-11e9-9b58-3b2255355405.png)
 
