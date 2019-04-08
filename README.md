@@ -9,6 +9,9 @@
 ##### 5. Jay Choksi
 ##### 6. Vividh Talesara
 
+![image](https://user-images.githubusercontent.com/35174083/55693794-eb4db300-597e-11e9-9c98-cb227cf36327.png)
+
+
 ## Data
 The datasets used for this task are of [Bitcoin](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/BITCOIN_Final.xlsx), [Litecoin](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/LITECOIN.xlsx) and [Ethereum](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/ETHEREUM.xlsx). Other dataset used is [NVIDIA](https://github.com/sumedhkulkarni7/Portfolio-Management-and-Algorithmic-Trading-Cryptocurrency/blob/master/NVDA.xlsx).
 
@@ -28,6 +31,7 @@ Using Python we develop strategies like:
 8. Random Forest
 9. Recurrent Neural Network 
 10. Long-Short Term Memory
+While using the above strategies we won't be using Python's in-built libraries. We will be developing the code from scratch in Python.
 
 ### Steps
 1. Load the dataset into three different dataframes
